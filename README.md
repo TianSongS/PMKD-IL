@@ -5,7 +5,7 @@ Continuous Transfer of Neural Network Representational Similarity for Incrementa
 
 
 <p align="center">
-  <img width=800 src=".github/model.png">
+  <img width=700 src=".github/model.png">
 </p>
 
 ## Instructions
